@@ -77,7 +77,6 @@ This separation ensures clean, maintainable, and scalable code.
 
 1. Clone the repository:
 
-## bash
 git clone https://github.com/lakshyasharmxa/ChatApp.git
 
 2. Open in Android Studio.
@@ -86,4 +85,4 @@ git clone https://github.com/lakshyasharmxa/ChatApp.git
 
 4. Add your google-services.json file.
 
-5, Build and run.
+5. Build and run.
